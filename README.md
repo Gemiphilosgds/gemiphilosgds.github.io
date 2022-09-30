@@ -7,8 +7,8 @@ im in class. je ne compris pas.
 
 ## Code Snippets
 
-console.log ('hello moto'
-)
+in class
+
 
 
 
