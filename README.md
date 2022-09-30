@@ -3,4 +3,12 @@
 hello moto
 
 ## header 2
+im in class. je ne compris pas.
+
+## Code Snippets
+
+console.log ('hello moto'
+)
+
+
 
